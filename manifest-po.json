@@ -3,7 +3,7 @@
   "short_name": "Penajam.Org",
   "start_url": "https://www.penajam.org",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#2d3024",
   "theme_color": "#2B0C93",
   "description": "Unofficial ASN Indonesia",
   "icons": [{
